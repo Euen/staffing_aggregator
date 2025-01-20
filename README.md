@@ -1,22 +1,5 @@
 # StaffingAggregator
 
-**TODO: Add description**
+You can check the code implementation [here](https://github.com/Euen/staffing_aggregator/blob/main/lib/staffing_aggregator.ex).
 
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `staffing_aggregator` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:staffing_aggregator, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/staffing_aggregator>.
-
-# staffing_aggregator
+The corresponding tests are [here](https://github.com/Euen/staffing_aggregator/blob/main/test/staffing_aggregator_test.exs).
